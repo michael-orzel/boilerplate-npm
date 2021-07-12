@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
+	"author": "Michael Orzel",
+	"description": "A project that does something awesome.",
+	"keywords": ["freecodecamp", "npm", "node", "practice"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
