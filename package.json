@@ -6,7 +6,7 @@
 	"keywords": ["freecodecamp", "npm", "node", "practice"],
 	"license": "MIT",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
 	},
 	"main": "server.js",
 	"scripts": {
